@@ -5,8 +5,8 @@
 :telescope: &nbsp; **Interests**: Machine Learning, Data Science, Cyber Security
 
 :link:&nbsp;
-- [[CV]](https://docs.google.com/viewer?url=https://github.com/xavoliva6/xavoliva6/raw/main/cv_oliva.pdf)
-- [[LinkedIn]](https://linkedin.com/in/xavier-oliva)
+[[CV]](https://docs.google.com/viewer?url=https://github.com/xavoliva6/xavoliva6/raw/main/cv_oliva.pdf) -
+[[LinkedIn]](https://linkedin.com/in/xavier-oliva)
 
 ## :flashlight: &nbsp; Highlights	
 :mortar_board: &nbsp; **Education**
