@@ -1,6 +1,6 @@
 ### Hi there, I'm Xavier Oliva 👋
 
-[![Linkedin: xavier-oliva](https://img.shields.io/badge/zubkovmd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xavier-oliva/)](https://www.linkedin.com/in/xavier-oliva/)
+[![Linkedin: xavier-oliva](https://img.shields.io/badge/xavoliva6-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xavier-oliva/)](https://www.linkedin.com/in/xavier-oliva/)
 
 :man_teacher: &nbsp; **Data Science Student** @ *Ecole Polytechnique Fédérale de Lausanne (EPFL)*
 
