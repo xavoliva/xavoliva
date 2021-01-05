@@ -18,10 +18,10 @@
 ### Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=xavoliva6)](https://github.com/anuraghazra/github-readme-stats)
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoliva6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoliva6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
