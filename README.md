@@ -13,7 +13,7 @@
 ## :flashlight: &nbsp; Highlights	
 :mortar_board: &nbsp; **Education**
 * Bachelor in Electrical Engineering at *Technical University Munich (TUM)*
-* Master in Data Science at *EPFL*
+* Master in Data Science at *Ecole Polytechnique Fédérale de Lausanne (EPFL)*
 
 ### Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=xavoliva6)](https://github.com/anuraghazra/github-readme-stats)
